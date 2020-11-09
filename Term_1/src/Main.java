@@ -31,6 +31,6 @@ public class Main {
 			}
 			sum += arr[i];
 		}
-		System.out.println("최소값: "+min+" , 최대값: "+max+" , 합: "+sum);
+		System.out.println(min+" , "+max+" , "+sum);
 	}
 }
